@@ -1,6 +1,6 @@
 # Hi, I'm Yurii
 
-![Java Developer](./images/dinoGif.gif)
+![Java Developer](./dinoGif.gif)
 
 ## Projects
 
