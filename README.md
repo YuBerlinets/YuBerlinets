@@ -13,5 +13,6 @@ They cover basic things related to Java (OOP, Swing) and C++
 - [Railway Infrostructure](https://github.com/YuBerlinets/Railway_infrastructure)
 - [Pacman](https://github.com/YuBerlinets/Pacman)
 - [Password Manager](https://github.com/YuBerlinets/Password_Manager)
+- [SyHub - Task Manager](https://github.com/YuBerlinets/TaskManager)
 
 Let's connect on LinkedIn too: [Yurii Berlinets](https://www.linkedin.com/in/yuriiberlinets/).
