@@ -7,7 +7,7 @@
 - [Still in development](https://ekitra.com)
 
 **Real-Time Transaction Fraud Detection**
-- [Backend, Frontend, Analysis, Configs](https://github.com/YuBerlinets/Transactions-Fraud) 
+- [Backend, Frontend, Analysis, Configs (Java, Spring, React, Kafka, ML, Python)](https://github.com/YuBerlinets/Transactions-Fraud) 
 
 **Web File Manager**
 - [Server side (Java, Spring)](https://github.com/YuBerlinets/Frukhmara)
